@@ -1,0 +1,7 @@
+.no-padding > [class*='col-'] {
+padding-right:0;
+padding-left:0;
+}
+.badge {
+    color: #343a40;
+}
